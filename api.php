@@ -1,0 +1,3 @@
+/*
+sample api.php for www.myhappy.ch
+*/
